@@ -59,17 +59,17 @@ As imagens utilizadas no projeto estão organizadas em pastas locais e incluem:
 
 ## 👥 Equipe do Projeto
 
-Este projeto foi desenvolvido como parte do Projeto Integrador da UNIVESP – curso de Ciência de Dados.
+Este projeto foi desenvolvido como parte do Projeto Integrador da UNIVESP – Curso de Ciência de Dados e Engenharia da Computação.
 
 **Membros do grupo:**
 
-Francisco Maciano Melo de Sousa, RA 23225820
-Pedro Augusto Lira, RA 23204931
-Lucas Kainã Oliveira Silva, RA 23206864
-Erick Matheus RA 23220341
-Rodrigo Domingues Belarmino, RA 23222577
-Kaicky Galache Pirovic Pires, RA 23208862
-Adriana da Costa Ferreira Campaner, RA 23214630
+- Adriana da Costa Ferreira Campaner, RA 23214630
+- Erick Matheus RA 23220341
+- Francisco Maciano Melo de Sousa, RA 23225820
+- Kaicky Galache Pirovic Pires, RA 23208862
+- Lucas Kainã Oliveira Silva, RA 23206864
+- Pedro Augusto Lira, RA 23204931
+- Rodrigo Domingues Belarmino, RA 23222577
 
 ---
 
