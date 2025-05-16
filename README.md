@@ -56,6 +56,25 @@ As imagens utilizadas no projeto estão organizadas em pastas locais e incluem:
 
 ## 🚀 Como Executar Localmente
 
+
+## 👥 Equipe do Projeto
+
+Este projeto foi desenvolvido como parte do Projeto Integrador da UNIVESP – curso de Ciência de Dados.
+
+**Membros do grupo:**
+
+Francisco Maciano Melo de Sousa, RA 23225820
+Pedro Augusto Lira, RA 23204931
+Lucas Kainã Oliveira Silva, RA 23206864
+Erick Matheus RA 23220341
+Rodrigo Domingues Belarmino, RA 23222577
+Kaicky Galache Pirovic Pires, RA 23208862
+Adriana da Costa Ferreira Campaner, RA 23214630
+
+---
+
+© 2025 Parque Municipal Vila do Rodeio. Todos os direitos reservados.
+
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
